@@ -1,3 +1,1 @@
-### Hi there 👋
-![](https://github.com/suprunchuk/suprunchuk-private/blob/main/slide2.png)
-
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=suprunchuk&theme=radical)
