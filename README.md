@@ -4,5 +4,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/suprunchuk/count.svg" />
 </p>
-
- [![MasterHead](https://rosidssoy.notion.site/image/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F13%2Fb6%2F43%2F13b643122e6cde5c26d461dea77f1ba5.gif)](https://github.com/123)
